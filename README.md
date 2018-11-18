@@ -4,5 +4,5 @@ by [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfz
 - [X] Strategy Pattern
 - [ ] Observer Pattern
 - [ ] Decorator Pattern
-- [ ] Factory Method Pattern
+- [X] Factory Method Pattern
 
