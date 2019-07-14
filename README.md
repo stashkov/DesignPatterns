@@ -2,7 +2,7 @@ This repo is a collection of most notable Design Patterns. It is based on a wond
 by [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg). I highly recommend his videos. 
 
 - [X] Strategy Pattern
-- [ ] Observer Pattern
+- [X] Observer Pattern
 - [ ] Decorator Pattern
 - [X] Factory Method Pattern
 
